@@ -31,4 +31,9 @@ using ConsoleApp1;
 // }
 
 //Ebob
-//Console.WriteLine(Ebob.EbobFunction(48, 18).ToString());
+Console.WriteLine(Ebob.EbobFunction(36, 12).ToString());
+
+//[3, 2, 5, 10, 7]
+//int[] nums = { 3, 2, 5, 10, 7 };
+//var result = Totals.MaxNonAdjacentSum(nums);
+//Console.WriteLine(result);
